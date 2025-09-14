@@ -1,5 +1,5 @@
 # Hi 👋, I'm Karim Magdy
-A passionate frontend developer from Egypt
+🚀 A passionate **Full Stack Developer** from Egypt  
 
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React, JavaScript, Tailwind CSS**
