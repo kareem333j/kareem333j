@@ -42,8 +42,8 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kareem333j&show_icons=true&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem333j&layout=compact&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kareem333j&theme=radical&hide_border=false)
 
-## 📊 GitHub Stats:
-![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=karim-magdy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karim-magdy&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karim-magdy&theme=radical)
