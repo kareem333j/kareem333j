@@ -1,6 +1,11 @@
 # Hi 👋, I'm Karim Magdy
 🚀 A passionate **Full Stack Developer** from Egypt  
 
+💡 Skilled in building **scalable web applications** using **Django (Backend)** and **Next.js (Frontend)**.  
+⚡ I love solving problems, designing systems, and crafting user-friendly experiences.
+
+---
+
 - 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React, JavaScript, Tailwind CSS**
 - 📫 How to reach me: **kareem147j@gmail.com**
