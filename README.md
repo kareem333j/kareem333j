@@ -1,11 +1,10 @@
 # Hi 👋, I'm Karim Magdy
 🚀 A passionate **Full Stack Developer** from Egypt  
 
-![](https://komarev.com/ghpvc/?username=kareem333j&label=Profile%20views&color=blue&style=for-the-badge)
-
 💡 Skilled in building **scalable web applications** using **Django (Backend)** and **Next.js (Frontend)**.  
 ⚡ I love solving problems, designing systems, and crafting user-friendly experiences.
 
+![](https://komarev.com/ghpvc/?username=kareem333j&label=Profile%20views&color=blue&style=for-the-badge)
 ---
 
 - 🌱 I’m currently learning **Next.js**
@@ -47,5 +46,4 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=kareem333j&show_icons=true&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kareem333j&layout=compact&theme=radical&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kareem333j&theme=radical&hide_border=false)
 
