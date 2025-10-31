@@ -1,6 +1,8 @@
 # Hi 👋, I'm Karim Magdy
 🚀 A passionate **Full Stack Developer** from Egypt  
 
+![](https://komarev.com/ghpvc/?username=kareem333j&label=Profile%20views&color=blue&style=for-the-badge)
+
 💡 Skilled in building **scalable web applications** using **Django (Backend)** and **Next.js (Frontend)**.  
 ⚡ I love solving problems, designing systems, and crafting user-friendly experiences.
 
